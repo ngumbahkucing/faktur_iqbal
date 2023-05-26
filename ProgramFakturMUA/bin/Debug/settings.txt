@@ -1,0 +1,2 @@
+database=faktur_iqbal
+dbhost=localhost
